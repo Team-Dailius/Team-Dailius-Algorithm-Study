@@ -18,3 +18,12 @@
 |10430|나머지|https://sieunp06.github.io/bojjava/10430/|
 |2588|곱셈|https://sieunp06.github.io/bojjava/2588/|
 |11382|꼬마 정민|https://sieunp06.github.io/bojjava/11382/|
+
+### Day 3
+|문제 번호|문제 제목|풀이 링크|
+|--|--|--|
+|1330|두 수 비교하기|https://sieunp06.github.io/bojjava/1330/|
+|9498|시험 성적|https://sieunp06.github.io/bojjava/9498/|
+|2753|윤년|https://sieunp06.github.io/bojjava/2753/|
+|14681|사분면 고르기|https://sieunp06.github.io/bojjava/14681/|
+|2884|알람 시계|https://sieunp06.github.io/bojjava/14681/|
