@@ -13,7 +13,7 @@
 - 한 주 분량을 한 주에 한 번 `풀 리퀘스트`한다.
 - `merge`는 해당 주 `토요일`에 진행한다.
 ### 벌금
-- 문제를 해결하지 못한 합당한 이유가 없을 경우, 벌금(1500원)을 낸다.
+- 문제를 해결하지 못한 합당한 이유가 없을 경우, 벌금(1500원)을 낸다.\
 
 <br>
 
@@ -22,17 +22,17 @@
 
 |날짜|문제 번호|문제 유형|문제 난이도|문제 제목|시은|지후|
 |--|--|--|--|--|--|--|
-|<img src="https://img.shields.io/badge/230227-9370DB?style=for-the-badge">|2557|입출력과 사칙연산|<center><img src="https://static.solved.ac/tier_small/1.svg" width="20px"/></center>|Hello World!|||
-|<img src="https://img.shields.io/badge/230227-9370DB?style=for-the-badge">|1000|입출력과 사칙연산|<center><img src="https://static.solved.ac/tier_small/1.svg" width="20px"/></center>|A+B||||
-|<img src="https://img.shields.io/badge/230227-9370DB?style=for-the-badge">|1001|입출력과 사칙연산|<center><img src="https://static.solved.ac/tier_small/1.svg" width="20px"/></center>|A-B|||
-|<img src="https://img.shields.io/badge/230227-9370DB?style=for-the-badge">|10998|입출력과 사칙연산|<center><img src="https://static.solved.ac/tier_small/1.svg" width="20px"/></center>|AxB|||
-|<img src="https://img.shields.io/badge/230227-9370DB?style=for-the-badge">|1008|입출력과 사칙연산|<center><img src="https://static.solved.ac/tier_small/1.svg" width="20px"/></center>|A/B|||
-|<img src="https://img.shields.io/badge/230227-9370DB?style=for-the-badge">|10869|입출력과 사칙연산|<center><img src="https://static.solved.ac/tier_small/1.svg" width="20px"/></center>|사칙연산|||
-|<img src="https://img.shields.io/badge/230228-AFEEEE?style=for-the-badge">|10926|입출력과 사칙연산|<center><img src="https://static.solved.ac/tier_small/1.svg" width="20px"/></center>|??!|||
-|<img src="https://img.shields.io/badge/230228-AFEEEE?style=for-the-badge">|18108|입출력과 사칙연산|<center><img src="https://static.solved.ac/tier_small/1.svg" width="20px"/></center>|1998년생인 내가 태국에서는 2541년생?!|||
-|<img src="https://img.shields.io/badge/230228-AFEEEE?style=for-the-badge">|10430|입출력과 사칙연산|<center><img src="https://static.solved.ac/tier_small/1.svg" width="20px"/></center>|나머지|||
-|<img src="https://img.shields.io/badge/230228-AFEEEE?style=for-the-badge">|2588|입출력과 사칙연산|<center><img src="https://static.solved.ac/tier_small/3.svg" width="20px"/></center>|곱셈|||
-|<img src="https://img.shields.io/badge/230228-AFEEEE?style=for-the-badge">|11382|입출력과 사칙연산|<center><img src="https://static.solved.ac/tier_small/1.svg" width="20px"/></center>|꼬마 정민|||
+|<img src="https://img.shields.io/badge/230227-9370DB?style=for-the-badge">|2557|입출력과 사칙연산|<center><img src="https://static.solved.ac/tier_small/1.svg" width="20px"/></center>|Hello World!|⭕️|⭕️|
+|<img src="https://img.shields.io/badge/230227-9370DB?style=for-the-badge">|1000|입출력과 사칙연산|<center><img src="https://static.solved.ac/tier_small/1.svg" width="20px"/></center>|A+B|⭕️|⭕️|
+|<img src="https://img.shields.io/badge/230227-9370DB?style=for-the-badge">|1001|입출력과 사칙연산|<center><img src="https://static.solved.ac/tier_small/1.svg" width="20px"/></center>|A-B|⭕️|⭕️|
+|<img src="https://img.shields.io/badge/230227-9370DB?style=for-the-badge">|10998|입출력과 사칙연산|<center><img src="https://static.solved.ac/tier_small/1.svg" width="20px"/></center>|AxB|⭕️|⭕️|
+|<img src="https://img.shields.io/badge/230227-9370DB?style=for-the-badge">|1008|입출력과 사칙연산|<center><img src="https://static.solved.ac/tier_small/1.svg" width="20px"/></center>|A/B|⭕️|⭕️|
+|<img src="https://img.shields.io/badge/230227-9370DB?style=for-the-badge">|10869|입출력과 사칙연산|<center><img src="https://static.solved.ac/tier_small/1.svg" width="20px"/></center>|사칙연산|⭕️|⭕️|
+|<img src="https://img.shields.io/badge/230228-AFEEEE?style=for-the-badge">|10926|입출력과 사칙연산|<center><img src="https://static.solved.ac/tier_small/1.svg" width="20px"/></center>|??!|⭕️|⭕️|
+|<img src="https://img.shields.io/badge/230228-AFEEEE?style=for-the-badge">|18108|입출력과 사칙연산|<center><img src="https://static.solved.ac/tier_small/1.svg" width="20px"/></center>|1998년생인 내가 태국에서는 2541년생?!|⭕️|⭕️|
+|<img src="https://img.shields.io/badge/230228-AFEEEE?style=for-the-badge">|10430|입출력과 사칙연산|<center><img src="https://static.solved.ac/tier_small/1.svg" width="20px"/></center>|나머지|⭕️|⭕️|
+|<img src="https://img.shields.io/badge/230228-AFEEEE?style=for-the-badge">|2588|입출력과 사칙연산|<center><img src="https://static.solved.ac/tier_small/3.svg" width="20px"/></center>|곱셈|⭕️|⭕️|
+|<img src="https://img.shields.io/badge/230228-AFEEEE?style=for-the-badge">|11382|입출력과 사칙연산|<center><img src="https://static.solved.ac/tier_small/1.svg" width="20px"/></center>|꼬마 정민|⭕️|⭕️|
 |<img src="https://img.shields.io/badge/230301-DDA0DD?style=for-the-badge">|1330|조건문|<center><img src="https://static.solved.ac/tier_small/1.svg" width="20px"/></center>|두 수 비교하기|||
 |<img src="https://img.shields.io/badge/230301-DDA0DD?style=for-the-badge">|9498|조건문|<center><img src="https://static.solved.ac/tier_small/1.svg" width="20px"/></center>|시험 성적|||
 |<img src="https://img.shields.io/badge/230301-DDA0DD?style=for-the-badge">|2753|조건문|<center><img src="https://static.solved.ac/tier_small/1.svg" width="20px"/></center>|윤년|||
