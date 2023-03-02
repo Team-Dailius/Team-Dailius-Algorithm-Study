@@ -18,6 +18,17 @@
 <br>
 
 ## 일정
+### 2주차(230306 ~ 230312)
+
+|날짜|문제 번호|문제 유형|문제 난이도|문제 제목|시은|지후|
+|--|--|--|--|--|--|--|
+|<img src="https://img.shields.io/badge/230306-9370DB?style=for-the-badge">|8393|반복문|<center><img src="https://static.solved.ac/tier_small/1.svg" width="20px"/></center>|합|||
+|<img src="https://img.shields.io/badge/230306-9370DB?style=for-the-badge">|25304|반복문|<center><img src="https://static.solved.ac/tier_small/1.svg" width="20px"/></center>|영수증|||
+|<img src="https://img.shields.io/badge/230307-AFEEEE?style=for-the-badge">|25314|반복문|<center><img src="https://static.solved.ac/tier_small/1.svg" width="20px"/></center>|코딩은 체육과목입니다.|||
+|<img src="https://img.shields.io/badge/230307-AFEEEE?style=for-the-badge">|15552|반복문|<center><img src="https://static.solved.ac/tier_small/2.svg" width="20px"/></center>|빠른 A+B|||
+|<img src="https://img.shields.io/badge/230308-DDA0DD?style=for-the-badge">|11021|반복문|<center><img src="https://static.solved.ac/tier_small/1.svg" width="20px"/></center>|A+B - 7|||
+|<img src="https://img.shields.io/badge/230308-DDA0DD?style=for-the-badge">|11022|반복문|<center><img src="https://static.solved.ac/tier_small/1.svg" width="20px"/></center>|A+B - 8|||
+
 ### 1주차(230227 ~ 230305)
 
 |날짜|문제 번호|문제 유형|문제 난이도|문제 제목|시은|지후|
@@ -40,11 +51,5 @@
 |<img src="https://img.shields.io/badge/230301-DDA0DD?style=for-the-badge">|2884|조건문|<center><img src="https://static.solved.ac/tier_small/3.svg" width="20px"/></center>|알람 시계|||
 |<img src="https://img.shields.io/badge/230302-F8E77F?style=for-the-badge">|2525|조건문|<center><img src="https://static.solved.ac/tier_small/3.svg" width="20px"/></center>|오븐 시계|||
 |<img src="https://img.shields.io/badge/230302-F8E77F?style=for-the-badge">|2480|조건문|<center><img src="https://static.solved.ac/tier_small/2.svg" width="20px"/></center>|주사위 세개|||
-|<img src="https://img.shields.io/badge/230302-F8E77F?style=for-the-badge">|2739|반복문|<center><img src="https://static.solved.ac/tier_small/1.svg" width="20px"/></center>|구구단|||
-|<img src="https://img.shields.io/badge/230302-F8E77F?style=for-the-badge">|10950|반복문|<center><img src="https://static.solved.ac/tier_small/1.svg" width="20px"/></center>|A+B - 3|||
-|<img src="https://img.shields.io/badge/230302-F8E77F?style=for-the-badge">|8393|반복문|<center><img src="https://static.solved.ac/tier_small/1.svg" width="20px"/></center>|합|||
-|<img src="https://img.shields.io/badge/230303-72C6A5?style=for-the-badge">|25304|반복문|<center><img src="https://static.solved.ac/tier_small/1.svg" width="20px"/></center>|영수증|||
-|<img src="https://img.shields.io/badge/230303-72C6A5?style=for-the-badge">|25314|반복문|<center><img src="https://static.solved.ac/tier_small/1.svg" width="20px"/></center>|코딩은 체육과목입니다.|||
-|<img src="https://img.shields.io/badge/230303-72C6A5?style=for-the-badge">|15552|반복문|<center><img src="https://static.solved.ac/tier_small/2.svg" width="20px"/></center>|빠른 A+B|||
-|<img src="https://img.shields.io/badge/230303-72C6A5?style=for-the-badge">|11021|반복문|<center><img src="https://static.solved.ac/tier_small/1.svg" width="20px"/></center>|A+B - 7|||
-|<img src="https://img.shields.io/badge/230303-72C6A5?style=for-the-badge">|11022|반복문|<center><img src="https://static.solved.ac/tier_small/1.svg" width="20px"/></center>|A+B - 8|||
+|<img src="https://img.shields.io/badge/230303-BEA3C9?style=for-the-badge">|2739|반복문|<center><img src="https://static.solved.ac/tier_small/1.svg" width="20px"/></center>|구구단|||
+|<img src="https://img.shields.io/badge/230303-BEA3C9?style=for-the-badge">|10950|반복문|<center><img src="https://static.solved.ac/tier_small/1.svg" width="20px"/></center>|A+B - 3|||
