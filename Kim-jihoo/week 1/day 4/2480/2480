@@ -1,0 +1,44 @@
+import java.util.Scanner;
+
+public class Main{
+    public static void main(String[] args){
+        Scanner sc = new Scanner(System.in);
+        int A = sc.nextInt();
+        int B = sc.nextInt();
+        int C = sc.nextInt();
+        if(A != B && B!= C && A!=C){
+            int D;
+            if(A>B){
+                if(C>A){
+                    D=C;
+                }
+                else{
+                    D=A;
+                }
+            }
+            else{
+                if(C>B){
+                    D=C;
+                }
+                else{
+                    D=B;
+                }
+            }
+            System.out.println(D*100);
+        }
+        else{
+            if(A == B && A == C){
+                System.out.println(10000 + A * 1000);
+            }
+            else{
+                if(A == B || A == C){
+                    System.out.println(1000 + A * 100);
+                }
+                else{
+                    System.out.println(1000 + B * 100);
+                }
+            }
+        }
+        sc.close();
+    }
+}
