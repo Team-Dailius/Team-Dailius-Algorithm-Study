@@ -1,0 +1,14 @@
+import java.util.Scanner;
+
+public class Main{
+    public static void main(String[] args){
+        Scanner sc = new Scanner(System.in);
+        long A = sc.nextLong();
+        long K =0;
+        for(long i=1; i<=A; i++){
+            K=K+i;
+        }
+        System.out.println(K);
+        
+    }
+}
