@@ -23,17 +23,31 @@
 <br>
 
 ## 일정
+### 4주차(230320 ~ 230326)
+|날짜|문제 번호|문제 유형|문제 난이도|문제 제목|시은|지후|
+|--|--|--|--|--|--|--|
+|<img src="https://img.shields.io/badge/230320-9370DB?style=for-the-badge">|10810|1차원 배열|<center><img src="https://static.solved.ac/tier_small/3.svg" width="20px"/></center>|공 넣기|||
+|<img src="https://img.shields.io/badge/230320-9370DB?style=for-the-badge">|10813|1차원 배열|<center><img src="https://static.solved.ac/tier_small/4.svg" width="20px"/></center>|공 바꾸기|||
+|<img src="https://img.shields.io/badge/230321-AFEEEE?style=for-the-badge">|5597|1차원 배열|<center><img src="https://static.solved.ac/tier_small/1.svg" width="20px"/></center>|과제 안 내신 분..?|||
+|<img src="https://img.shields.io/badge/230321-AFEEEE?style=for-the-badge">|3052|1차원 배열|<center><img src="https://static.solved.ac/tier_small/4.svg" width="20px"/></center>|나머지|||
+|<img src="https://img.shields.io/badge/230322-DDA0DD?style=for-the-badge">|10811|1차원 배열|<center><img src="https://static.solved.ac/tier_small/4.svg" width="20px"/></center>|바구니 뒤집기|||
+|<img src="https://img.shields.io/badge/230322-DDA0DD?style=for-the-badge">|1546|1차원 배열|<center><img src="https://static.solved.ac/tier_small/5.svg" width="20px"/></center>|평균|||
+|<img src="https://img.shields.io/badge/230323-F8E77F?style=for-the-badge">|27866|문자열|<center><img src="https://static.solved.ac/tier_small/1.svg" width="20px"/></center>|문자와 문자열|||
+|<img src="https://img.shields.io/badge/230323-F8E77F?style=for-the-badge">|2743|문자열|<center><img src="https://static.solved.ac/tier_small/1.svg" width="20px"/></center>|단어 길이 재기|||
+|<img src="https://img.shields.io/badge/230324-BEA3C9?style=for-the-badge">|9086|문자열|<center><img src="https://static.solved.ac/tier_small/1.svg" width="20px"/></center>|문자열|||
+|<img src="https://img.shields.io/badge/230324-BEA3C9?style=for-the-badge">|11654|문자열|<center><img src="https://static.solved.ac/tier_small/1.svg" width="20px"/></center>|아스키 코드|||
+
 ### 3주차(230313 ~ 230319)
 |날짜|문제 번호|문제 유형|문제 난이도|문제 제목|시은|지후|
 |--|--|--|--|--|--|--|
-|<img src="https://img.shields.io/badge/230314-9370DB?style=for-the-badge">|2438|반복문|<center><img src="https://static.solved.ac/tier_small/1.svg" width="20px"/></center>|별 찍기 - 1|||
-|<img src="https://img.shields.io/badge/230314-9370DB?style=for-the-badge">|2439|반복문|<center><img src="https://static.solved.ac/tier_small/2.svg" width="20px"/></center>|별 찍기 - 2|||
-|<img src="https://img.shields.io/badge/230315-AFEEEE?style=for-the-badge">|10952|반복문|<center><img src="https://static.solved.ac/tier_small/1.svg" width="20px"/></center>|A+B - 5|||
-|<img src="https://img.shields.io/badge/230315-AFEEEE?style=for-the-badge">|10951|반복문|<center><img src="https://static.solved.ac/tier_small/2.svg" width="20px"/></center>|A+B - 4|||
-|<img src="https://img.shields.io/badge/230316-DDA0DD?style=for-the-badge">|10807|1차원 배열|<center><img src="https://static.solved.ac/tier_small/1.svg" width="20px"/></center>|개수 세기|||
-|<img src="https://img.shields.io/badge/230316-DDA0DD?style=for-the-badge">|10871|1차원 배열|<center><img src="https://static.solved.ac/tier_small/1.svg" width="20px"/></center>|X보다 작은 수|||
-|<img src="https://img.shields.io/badge/230317-F8E77F?style=for-the-badge">|10807|1차원 배열|<center><img src="https://static.solved.ac/tier_small/3.svg" width="20px"/></center>|최소, 최대|||
-|<img src="https://img.shields.io/badge/230317-F8E77F?style=for-the-badge">|10871|1차원 배열|<center><img src="https://static.solved.ac/tier_small/3.svg" width="20px"/></center>|최댓값|||
+|<img src="https://img.shields.io/badge/230314-9370DB?style=for-the-badge">|2438|반복문|<center><img src="https://static.solved.ac/tier_small/1.svg" width="20px"/></center>|별 찍기 - 1|⭕️|⭕️|
+|<img src="https://img.shields.io/badge/230314-9370DB?style=for-the-badge">|2439|반복문|<center><img src="https://static.solved.ac/tier_small/2.svg" width="20px"/></center>|별 찍기 - 2|⭕️|⭕️|
+|<img src="https://img.shields.io/badge/230315-AFEEEE?style=for-the-badge">|10952|반복문|<center><img src="https://static.solved.ac/tier_small/1.svg" width="20px"/></center>|A+B - 5|⭕️|⭕️|
+|<img src="https://img.shields.io/badge/230315-AFEEEE?style=for-the-badge">|10951|반복문|<center><img src="https://static.solved.ac/tier_small/2.svg" width="20px"/></center>|A+B - 4|⭕️|⭕️|
+|<img src="https://img.shields.io/badge/230316-DDA0DD?style=for-the-badge">|10807|1차원 배열|<center><img src="https://static.solved.ac/tier_small/1.svg" width="20px"/></center>|개수 세기|⭕️|⭕️|
+|<img src="https://img.shields.io/badge/230316-DDA0DD?style=for-the-badge">|10871|1차원 배열|<center><img src="https://static.solved.ac/tier_small/1.svg" width="20px"/></center>|X보다 작은 수|⭕️|⭕️|
+|<img src="https://img.shields.io/badge/230317-F8E77F?style=for-the-badge">|10818|1차원 배열|<center><img src="https://static.solved.ac/tier_small/3.svg" width="20px"/></center>|최소, 최대|⭕️|⭕️|
+|<img src="https://img.shields.io/badge/230317-F8E77F?style=for-the-badge">|2562|1차원 배열|<center><img src="https://static.solved.ac/tier_small/3.svg" width="20px"/></center>|최댓값|⭕️|⭕️|
 
 ### 2주차(230306 ~ 230312)
 
